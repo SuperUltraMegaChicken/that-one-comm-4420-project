@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Elizabeth Spizzo",
+    "startTime": "3:17:00",
+    "endTime": "13:09:00",
+    "timeTaken": "9:52:00",
+    "diyTime": "9:31:00",
+    "diyTimeTaken": "6:14:00",
+    "checkoutTimeTaken": "3:38:00"
+  },
+  {
+    "name": "Ella Graff",
+    "startTime": "3:00:00",
+    "endTime": "7:15:00",
+    "timeTaken": "4:15:00",
+    "diyTime": "6:00:00",
+    "diyTimeTaken": "3:00:00",
+    "checkoutTimeTaken": "1:15:00"
+  },
+  {
+    "name": "Callista Adorno",
+    "startTime": "3:06:00",
+    "endTime": "17:56:00",
+    "timeTaken": "14:50:00",
+    "diyTime": "16:10:00",
+    "diyTimeTaken": "13:04:00",
+    "checkoutTimeTaken": "1:46:00"
+  },
+  {
+    "name": "Sydney Speanburg",
+    "startTime": "30:05:00",
+    "endTime": "37:40:00",
+    "timeTaken": "7:35:00",
+    "diyTime": "34:50:00",
+    "diyTimeTaken": "4:45:00",
+    "checkoutTimeTaken": "2:50:00"
+  },
+  {
+    "name": "Kerianne Bugbee",
+    "startTime": "3:29:00",
+    "endTime": "13:01:00",
+    "timeTaken": "9:32:00",
+    "diyTime": "12:36:00",
+    "diyTimeTaken": "9:07:00",
+    "checkoutTimeTaken": "0:25:00"
+  }
+]

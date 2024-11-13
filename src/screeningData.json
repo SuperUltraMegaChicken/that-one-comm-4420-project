@@ -1,0 +1,167 @@
+[
+  {
+    "timestamp": "11/3/2024 14:24:23",
+    "name": "Elizabeth Spizzo",
+    "navigation": {
+      "question": "How confident did you feel navigating during the test?",
+      "confidence": 3,
+      "reason": "I stumbled upon the DIY that I was looking for. There were multiple locations that I thought it could be in."
+    },
+    "cart": {
+      "question": "How confident do you feel about what's in your cart?",
+      "confidence": 4,
+      "reason": "I feel fairly confident. The necessary products for my task was right there when I opened the page."
+    },
+    "instructions": {
+      "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
+      "confidence": 5,
+      "reason": "I feel that it is very useful instructions. I can follow through step by step once I download the necessary app and connect my lights easily."
+    },
+    "materials": {
+      "question": "What materials did you add to your cart?",
+      "materials": "an amazon echo, 12 in. Multi-Color Smart Wi-Fi LED 4X Beam Light Kit and Corner, Works with Alexa/Hey Google/HomeKit/Siri, 40-Watt Equivalent A19 Dimmable Filament Orange Colored Glass LED Light Bulb (1-Pack)"
+    },
+    "feedback": {
+      "question": "What general feedback do you have?",
+      "response": "The website is very confusing. It doesn't have a clear structure and it's hard to find the DIY that I'm looking for."
+    },
+    "useDIY": {
+      "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
+      "answer": "Yes",
+      "reason": "I didn't know that Home depot had a DIY section before. Hopefully I can use it now when I have issues around my house that are too small to ask my landlord for help with."
+    },
+    "satisfaction": 4
+  },
+  {
+    "timestamp": "11/3/2024 14:44:32",
+    "name": "Ella Graff",
+    "navigation": {
+      "question": "How confident did you feel navigating during the test?",
+      "confidence": 4,
+      "reason": "I knew it was somewhere and had to be reasonably organized so I just had to think of where they would categorize it"
+    },
+    "cart": {
+      "question": "How confident do you feel about what's in your cart?",
+      "confidence": 2,
+      "reason": "The examples in the article were flat triangle lights, I'm sure it will work with the bulbs suggested but it's interesting that it's set up like that."
+    },
+    "instructions": {
+      "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
+      "confidence": 4,
+      "reason": "It seemed like it's somewhat self explainitory once you download the app"
+    },
+    "materials": {
+      "question": "What materials did you add to your cart?",
+      "materials": "Globe Electric\nSmart Integrated LED 3 in Round RGB + Tuneable White Canless Recessed Light for Kitchen Bathroom Livingroom, White\nModel #50466\n\nEcoSmart\n40-Watt Equivalent A19 Dimmable Filament Orange Colored Glass LED Light Bulb (1-Pack)\nNumber of Bulbs Included: 1\n\nBulb Color: Orange"
+    },
+    "feedback": {
+      "question": "What general feedback do you have?",
+      "response": "The groups/tabs are very general so it's hard to understand the organization and where your project would fit under."
+    },
+    "useDIY": {
+      "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
+      "answer": "Yes",
+      "reason": "If I googled a DIY and home depot came up i would use their project but I would seek out the home depot website to do a DIY"
+    },
+    "satisfaction": 4
+  },
+  {
+    "timestamp": "11/6/2024 18:22:54",
+    "name": "Callista Adorno",
+    "navigation": {
+      "question": "How confident did you feel navigating during the test?",
+      "confidence": 2,
+      "reason": "I wasn't sure exactly what I was looking for"
+    },
+    "cart": {
+      "question": "How confident do you feel about what's in your cart?",
+      "confidence": 4,
+      "reason": "It was a straightforward purchase"
+    },
+    "instructions": {
+      "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
+      "confidence": 4,
+      "reason": "It walked you through the process step by step"
+    },
+    "materials": {
+      "question": "What materials did you add to your cart?",
+      "materials": "Globe Electric\nSmart Integrated LED 3 in Round RGB + Tuneable White Canless Recessed Light for Kitchen Bathroom Livingroom, White\nModel #50466"
+    },
+    "feedback": {
+      "question": "What general feedback do you have?",
+      "response": "Knowing that there was a specific section I was looking for and not just general information"
+    },
+    "useDIY": {
+      "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
+      "answer": "No",
+      "reason": "It would be much faster to do a google search or ask someone else for advice"
+    },
+    "satisfaction": 3
+  },
+  {
+    "timestamp": "11/6/2024 18:43:51",
+    "name": "Sydney Speanburg",
+    "navigation": {
+      "question": "How confident did you feel navigating during the test?",
+      "confidence": 2,
+      "reason": "It took me a long time to find the correct tutorial."
+    },
+    "cart": {
+      "question": "How confident do you feel about what's in your cart?",
+      "confidence": 4,
+      "reason": "It seems what in my cart is relevant to the project."
+    },
+    "instructions": {
+      "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
+      "confidence": 4,
+      "reason": "The instructions were pretty clear just by skimming."
+    },
+    "materials": {
+      "question": "What materials did you add to your cart?",
+      "materials": "EcoSmart\n40-Watt Equivalent A19 Dimmable Filament Orange Colored Glass LED Light Bulb (1-Pack)\n\nEcoSmart\n100-Watt Equivalent A19 Dimmable LED Light Bulb Daylight (4-Pack)"
+    },
+    "feedback": {
+      "question": "What general feedback do you have?",
+      "response": "It was frustrating not being able to find the correct project under the tabs the website is using."
+    },
+    "useDIY": {
+      "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
+      "answer": "Yes",
+      "reason": "Once you can find the correct project it could be useful."
+    },
+    "satisfaction": 3
+  },
+  {
+    "timestamp": "11/7/2024 20:57:29",
+    "name": "Kerianne Bugbee",
+    "navigation": {
+      "question": "How confident did you feel navigating during the test?",
+      "confidence": 3,
+      "reason": "There were a lot of places I felt that it could be after hitting the DIY button initially. There were a lot of projects to sift through as well."
+    },
+    "cart": {
+      "question": "How confident do you feel about what's in your cart?",
+      "confidence": 5,
+      "reason": "If I am looking to do the type of project in this scenerio, this DIY project from Home depot is exactly what I would be looking for."
+    },
+    "instructions": {
+      "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
+      "confidence": 5,
+      "reason": "The instruction are in depth."
+    },
+    "materials": {
+      "question": "What materials did you add to your cart?",
+      "materials": "I added Globe Electric."
+    },
+    "feedback": {
+      "question": "What general feedback do you have?",
+      "response": "Navigating to this page was not the most easy. I got confused between the \"How to Projects\" and the \"all DIY Projects"
+    },
+    "useDIY": {
+      "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
+      "answer": "Yes",
+      "reason": "I would use the DIY section if I was looking to renovate my house/room and wanted inspriation or if I had a specific thing I wanted like the lights in this example that I know is popular and would think they would have a section on."
+    },
+    "satisfaction": 3
+  }
+]
