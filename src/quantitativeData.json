@@ -1,6 +1,7 @@
 [
   {
-    "name": "Elizabeth Spizzo",
+    "name": "PINK",
+    "color": "#FF6384",
     "startTime": "3:17:00",
     "endTime": "13:09:00",
     "timeTaken": "9:52:00",
@@ -9,7 +10,8 @@
     "checkoutTimeTaken": "3:38:00"
   },
   {
-    "name": "Ella Graff",
+    "name": "BLUE",
+    "color": "#36A2EB",
     "startTime": "3:00:00",
     "endTime": "7:15:00",
     "timeTaken": "4:15:00",
@@ -18,7 +20,8 @@
     "checkoutTimeTaken": "1:15:00"
   },
   {
-    "name": "Callista Adorno",
+    "name": "YELLOW",
+    "color": "#FFCE56",
     "startTime": "3:06:00",
     "endTime": "17:56:00",
     "timeTaken": "14:50:00",
@@ -27,7 +30,8 @@
     "checkoutTimeTaken": "1:46:00"
   },
   {
-    "name": "Sydney Speanburg",
+    "name": "TURQUOISE",
+    "color": "#4BC0C0",
     "startTime": "30:05:00",
     "endTime": "37:40:00",
     "timeTaken": "7:35:00",
@@ -36,7 +40,8 @@
     "checkoutTimeTaken": "2:50:00"
   },
   {
-    "name": "Kerianne Bugbee",
+    "name": "PURPLE",
+    "color": "#9966FF",
     "startTime": "3:29:00",
     "endTime": "13:01:00",
     "timeTaken": "9:32:00",

@@ -16,6 +16,8 @@ export default createVuetify({
   defaults: {
     global: {
       variant: "outlined",
+    },
+    VTable: {
     }
   }
 })

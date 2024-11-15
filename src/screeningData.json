@@ -1,7 +1,8 @@
 [
   {
     "timestamp": "11/3/2024 14:24:23",
-    "name": "Elizabeth Spizzo",
+    "name": "PINK",
+    "color": "#FF6384",
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 3,
@@ -19,7 +20,11 @@
     },
     "materials": {
       "question": "What materials did you add to your cart?",
-      "materials": "an amazon echo, 12 in. Multi-Color Smart Wi-Fi LED 4X Beam Light Kit and Corner, Works with Alexa/Hey Google/HomeKit/Siri, 40-Watt Equivalent A19 Dimmable Filament Orange Colored Glass LED Light Bulb (1-Pack)"
+      "materials": [
+        "Amazon Echo",
+        "12 in. Multi-Color Smart Wi-Fi LED 4X Beam Light Kit",
+        "EcoSmart (40-Watt)"
+      ]
     },
     "feedback": {
       "question": "What general feedback do you have?",
@@ -34,7 +39,8 @@
   },
   {
     "timestamp": "11/3/2024 14:44:32",
-    "name": "Ella Graff",
+    "name": "BLUE",
+    "color": "#36A2EB",
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 4,
@@ -52,7 +58,10 @@
     },
     "materials": {
       "question": "What materials did you add to your cart?",
-      "materials": "Globe Electric\nSmart Integrated LED 3 in Round RGB + Tuneable White Canless Recessed Light for Kitchen Bathroom Livingroom, White\nModel #50466\n\nEcoSmart\n40-Watt Equivalent A19 Dimmable Filament Orange Colored Glass LED Light Bulb (1-Pack)\nNumber of Bulbs Included: 1\n\nBulb Color: Orange"
+      "materials": [
+        "Globe Electric",
+        "EcoSmart (40-Watt)"
+      ]
     },
     "feedback": {
       "question": "What general feedback do you have?",
@@ -67,7 +76,8 @@
   },
   {
     "timestamp": "11/6/2024 18:22:54",
-    "name": "Callista Adorno",
+    "name": "YELLOW",
+    "color": "#FFCE56",
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 2,
@@ -85,7 +95,9 @@
     },
     "materials": {
       "question": "What materials did you add to your cart?",
-      "materials": "Globe Electric\nSmart Integrated LED 3 in Round RGB + Tuneable White Canless Recessed Light for Kitchen Bathroom Livingroom, White\nModel #50466"
+      "materials": [
+        "Globe Electric"
+      ]
     },
     "feedback": {
       "question": "What general feedback do you have?",
@@ -100,7 +112,8 @@
   },
   {
     "timestamp": "11/6/2024 18:43:51",
-    "name": "Sydney Speanburg",
+    "name": "TURQUOISE",
+    "color": "#4BC0C0",
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 2,
@@ -118,7 +131,10 @@
     },
     "materials": {
       "question": "What materials did you add to your cart?",
-      "materials": "EcoSmart\n40-Watt Equivalent A19 Dimmable Filament Orange Colored Glass LED Light Bulb (1-Pack)\n\nEcoSmart\n100-Watt Equivalent A19 Dimmable LED Light Bulb Daylight (4-Pack)"
+      "materials": [
+        "EcoSmart (40-Watt)",
+        "EcoSmart (100-Watt)"
+      ]
     },
     "feedback": {
       "question": "What general feedback do you have?",
@@ -133,7 +149,8 @@
   },
   {
     "timestamp": "11/7/2024 20:57:29",
-    "name": "Kerianne Bugbee",
+    "name": "PURPLE",
+    "color": "#9966FF",
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 3,
@@ -151,7 +168,7 @@
     },
     "materials": {
       "question": "What materials did you add to your cart?",
-      "materials": "I added Globe Electric."
+      "materials": ["Globe Electric"]
     },
     "feedback": {
       "question": "What general feedback do you have?",
