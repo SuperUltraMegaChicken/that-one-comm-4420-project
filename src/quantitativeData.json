@@ -7,7 +7,12 @@
     "timeTaken": "9:52:00",
     "diyTime": "9:31:00",
     "diyTimeTaken": "6:14:00",
-    "checkoutTimeTaken": "3:38:00"
+    "diyPages": 14,
+    "checkoutTimeTaken": "3:38:00",
+    "findCategoryTime": "5:34:00",
+    "findCategoryTimeTaken": "2:17:00",
+    "findCategoryPages": 5,
+    "foundThroughCategory": "Yes"
   },
   {
     "name": "BLUE",
@@ -17,7 +22,12 @@
     "timeTaken": "4:15:00",
     "diyTime": "6:00:00",
     "diyTimeTaken": "3:00:00",
-    "checkoutTimeTaken": "1:15:00"
+    "diyPages": 6,
+    "checkoutTimeTaken": "1:15:00",
+    "findCategoryTime": "5:55:00",
+    "findCategoryTimeTaken": "2:55:00",
+    "findCategoryPages": 5,
+    "foundThroughCategory": "Partially"
   },
   {
     "name": "YELLOW",
@@ -27,7 +37,12 @@
     "timeTaken": "14:50:00",
     "diyTime": "16:10:00",
     "diyTimeTaken": "13:04:00",
-    "checkoutTimeTaken": "1:46:00"
+    "diyPages": 32,
+    "checkoutTimeTaken": "1:46:00",
+    "findCategoryTime": "9:45:00",
+    "findCategoryTimeTaken": "6:39:00",
+    "findCategoryPages": 13,
+    "foundThroughCategory": "No"
   },
   {
     "name": "TURQUOISE",
@@ -37,7 +52,12 @@
     "timeTaken": "7:35:00",
     "diyTime": "34:50:00",
     "diyTimeTaken": "4:45:00",
-    "checkoutTimeTaken": "2:50:00"
+    "diyPages": 14,
+    "checkoutTimeTaken": "2:50:00",
+    "findCategoryTime": "31:34:00",
+    "findCategoryTimeTaken": "1:29:00",
+    "findCategoryPages": 5,
+    "foundThroughCategory": "Yes"
   },
   {
     "name": "PURPLE",
@@ -47,6 +67,11 @@
     "timeTaken": "9:32:00",
     "diyTime": "12:36:00",
     "diyTimeTaken": "9:07:00",
-    "checkoutTimeTaken": "0:25:00"
+    "diyPages": 15,
+    "checkoutTimeTaken": "0:25:00",
+    "findCategoryTime": "11:54:00",
+    "findCategoryTimeTaken": "8:25:00",
+    "findCategoryPages": 13,
+    "foundThroughCategory": "Partially"
   }
 ]

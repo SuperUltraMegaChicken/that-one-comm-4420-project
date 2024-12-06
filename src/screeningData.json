@@ -6,17 +6,20 @@
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 3,
-      "reason": "I stumbled upon the DIY that I was looking for. There were multiple locations that I thought it could be in."
+      "reason": "I stumbled upon the DIY that I was looking for. There were multiple locations that I thought it could be in.",
+      "simplifiedReason": "I found it by accident and it feels like I shouldn't have found it there. (Lighting & Ceiling Fans Ideas & Projects Section)"
     },
     "cart": {
       "question": "How confident do you feel about what's in your cart?",
       "confidence": 4,
-      "reason": "I feel fairly confident. The necessary products for my task was right there when I opened the page."
+      "reason": "I feel fairly confident. The necessary products for my task was right there when I opened the page.",
+      "simplifiedReason": "I feel fairly confident. The necessary products for my project seems like it would be there."
     },
     "instructions": {
       "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
       "confidence": 5,
-      "reason": "I feel that it is very useful instructions. I can follow through step by step once I download the necessary app and connect my lights easily."
+      "reason": "I feel that it is very useful instructions. I can follow through step by step once I download the necessary app and connect my lights easily.",
+      "simplifiedReason": "I can follow through step by step once I download the necessary app and connect my lights easily."
     },
     "materials": {
       "question": "What materials did you add to your cart?",
@@ -28,12 +31,14 @@
     },
     "feedback": {
       "question": "What general feedback do you have?",
-      "response": "The website is very confusing. It doesn't have a clear structure and it's hard to find the DIY that I'm looking for."
+      "response": "The website is very confusing. It doesn't have a clear structure and it's hard to find the DIY that I'm looking for.",
+      "simplifiedResponse": "<em>I would prefer a search bar. Not having that makes my life hard.</em>"
     },
     "useDIY": {
       "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
       "answer": "Yes",
-      "reason": "I didn't know that Home depot had a DIY section before. Hopefully I can use it now when I have issues around my house that are too small to ask my landlord for help with."
+      "reason": "I didn't know that Home depot had a DIY section before. Hopefully I can use it now when I have issues around my house that are too small to ask my landlord for help with.",
+      "simplifiedReason": "I didn't know Home depot had this section. I would use it for small issues around my house."
     },
     "satisfaction": 4
   },
@@ -44,17 +49,20 @@
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 4,
-      "reason": "I knew it was somewhere and had to be reasonably organized so I just had to think of where they would categorize it"
+      "reason": "I knew it was somewhere and had to be reasonably organized so I just had to think of where they would categorize it",
+      "simplifiedReason": "Well it had to be somewhere, so I just thought where they would categorize it."
     },
     "cart": {
       "question": "How confident do you feel about what's in your cart?",
       "confidence": 2,
-      "reason": "The examples in the article were flat triangle lights, I'm sure it will work with the bulbs suggested but it's interesting that it's set up like that."
+      "reason": "The examples in the article were flat triangle lights, I'm sure it will work with the bulbs suggested but it's interesting that it's set up like that.",
+      "simplifiedReason": "The images shown in the article were triangle lights, but the bulbs suggested were regular bulbs.<a style='text-decoration: none' href='#1'><sup>[1]</sup></a>"
     },
     "instructions": {
       "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
       "confidence": 4,
-      "reason": "It seemed like it's somewhat self explainitory once you download the app"
+      "reason": "It seemed like it's somewhat self explainitory once you download the app",
+      "simplifiedReason": "It seemed like it's somewhat self explanatory once you download the app."
     },
     "materials": {
       "question": "What materials did you add to your cart?",
@@ -65,12 +73,14 @@
     },
     "feedback": {
       "question": "What general feedback do you have?",
-      "response": "The groups/tabs are very general so it's hard to understand the organization and where your project would fit under."
+      "response": "The groups/tabs are very general so it's hard to understand the organization and where your project would fit under.",
+      "simplifiedResponse": "The categories are too generalized, so it's hard to know where your project will be."
     },
     "useDIY": {
       "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
       "answer": "Yes",
-      "reason": "If I googled a DIY and home depot came up i would use their project but I would seek out the home depot website to do a DIY"
+      "reason": "If I googled a DIY and home depot came up i would use their project but I would seek out the home depot website to do a DIY",
+      "simplifiedReason": "<b>I would use the DIY section but I'd google for that specific page. Not search it through home depot.</b>"
     },
     "satisfaction": 4
   },
@@ -81,17 +91,20 @@
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 2,
-      "reason": "I wasn't sure exactly what I was looking for"
+      "reason": "I wasn't sure exactly what I was looking for",
+      "simplifiedReason": "I didn't know what I was looking for."
     },
     "cart": {
       "question": "How confident do you feel about what's in your cart?",
       "confidence": 4,
-      "reason": "It was a straightforward purchase"
+      "reason": "It was a straightforward purchase",
+      "simplifiedReason": "It's pretty straightforward"
     },
     "instructions": {
       "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
       "confidence": 4,
-      "reason": "It walked you through the process step by step"
+      "reason": "It walked you through the process step by step",
+      "simplifiedReason": "It walked you through the process step by step"
     },
     "materials": {
       "question": "What materials did you add to your cart?",
@@ -101,12 +114,14 @@
     },
     "feedback": {
       "question": "What general feedback do you have?",
-      "response": "Knowing that there was a specific section I was looking for and not just general information"
+      "response": "Knowing that there was a specific section I was looking for and not just general information",
+      "simplifiedResponse": "I would've liked to know there was a specific section I was looking for and not general information."
     },
     "useDIY": {
       "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
       "answer": "No",
-      "reason": "It would be much faster to do a google search or ask someone else for advice"
+      "reason": "It would be much faster to do a google search or ask someone else for advice",
+      "simplifiedReason": "Google searching is faster."
     },
     "satisfaction": 3
   },
@@ -117,17 +132,20 @@
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 2,
-      "reason": "It took me a long time to find the correct tutorial."
+      "reason": "It took me a long time to find the correct tutorial.",
+      "simplifiedReason": "<b>It took too long</b>"
     },
     "cart": {
       "question": "How confident do you feel about what's in your cart?",
       "confidence": 4,
-      "reason": "It seems what in my cart is relevant to the project."
+      "reason": "It seems what in my cart is relevant to the project.",
+      "simplifiedReason": "It seems what in my cart is relevant to the project."
     },
     "instructions": {
       "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
       "confidence": 4,
-      "reason": "The instructions were pretty clear just by skimming."
+      "reason": "The instructions were pretty clear just by skimming.",
+      "simplifiedReason": "The instructions were pretty clear just by skimming."
     },
     "materials": {
       "question": "What materials did you add to your cart?",
@@ -143,7 +161,8 @@
     "useDIY": {
       "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
       "answer": "Yes",
-      "reason": "Once you can find the correct project it could be useful."
+      "reason": "Once you can find the correct project it could be useful.",
+      "simplifiedReason": "Once you can find the correct project it could be useful."
     },
     "satisfaction": 3
   },
@@ -154,17 +173,20 @@
     "navigation": {
       "question": "How confident did you feel navigating during the test?",
       "confidence": 3,
-      "reason": "There were a lot of places I felt that it could be after hitting the DIY button initially. There were a lot of projects to sift through as well."
+      "reason": "There were a lot of places I felt that it could be after hitting the DIY button initially. There were a lot of projects to sift through as well.",
+      "simplifiedReason": "It felt like the guide could be in a lot of places."
     },
     "cart": {
       "question": "How confident do you feel about what's in your cart?",
       "confidence": 5,
-      "reason": "If I am looking to do the type of project in this scenerio, this DIY project from Home depot is exactly what I would be looking for."
+      "reason": "If I am looking to do the type of project in this scenerio, this DIY project from Home depot is exactly what I would be looking for.",
+      "simplifiedReason": "This is exactly what I would be looking for."
     },
     "instructions": {
       "question": "How useful did you find the instructions provided in How to Sync Your Lights?",
       "confidence": 5,
-      "reason": "The instruction are in depth."
+      "reason": "The instruction are in depth.",
+      "simplifiedReason": "The instruction are in depth."
     },
     "materials": {
       "question": "What materials did you add to your cart?",
@@ -177,7 +199,8 @@
     "useDIY": {
       "question": "Would you use the DIY section of Home Depot for your own applications/projects?",
       "answer": "Yes",
-      "reason": "I would use the DIY section if I was looking to renovate my house/room and wanted inspriation or if I had a specific thing I wanted like the lights in this example that I know is popular and would think they would have a section on."
+      "reason": "I would use the DIY section if I was looking to renovate my house/room and wanted inspiration or if I had a specific thing I wanted like the lights in this example that I know is popular and would think they would have a section on.",
+      "simplifiedReason": "I would use the DIY section if I wanted inspiration to renovate my house."
     },
     "satisfaction": 3
   }

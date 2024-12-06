@@ -1,5 +1,5 @@
 <template>
-		<Scatter class="chart" :data="data" :options="options" />
+	<Scatter class="chart" :data="data" :options="options" />
 </template>
 
 <script setup lang="ts">
@@ -12,38 +12,38 @@ import quantitativeData from "../../quantitativeData.json";
 const brightColor = "#b7b7b7";
 
 const data = ref<ChartData<"scatter">>({
- datasets: []
+	datasets: []
 });
 
 const convertDurationToSeconds = (duration: string) => {
- const [minutes, seconds, milliseconds] = duration.split(":").map(Number);
- return minutes * 60 + seconds + milliseconds / 1000;
+	const [minutes, seconds, milliseconds] = duration.split(":").map(Number);
+	return minutes * 60 + seconds + milliseconds / 1000;
 };
 
 quantitativeData.forEach((user) => {
- data.value.datasets!.push({
-  label: user.name,
-  data: [
-   {
-    x: 0,
-    // @ts-ignore
-    y: "Start",
-   },
-   {
-    x: convertDurationToSeconds(user.diyTimeTaken),
-    // @ts-ignore
-    y: "Search Finished"
-   },
-   {
-    x: convertDurationToSeconds(user.timeTaken),
-    // @ts-ignore
-    y: "Task Finished"
-   },
-  ],
-  backgroundColor: user.color,
-  borderColor: "#575050",
-  borderWidth: 1
- });
+	data.value.datasets!.push({
+		label: user.name,
+		data: [
+			{
+				x: 0,
+				// @ts-ignore
+				y: "Start",
+			},
+			{
+				x: user.findCategoryPages,
+				// @ts-ignore
+				y: "Category Found"
+			},
+			{
+				x: user.diyPages,
+				// @ts-ignore
+				y: "Guide Found"
+			},
+		],
+		backgroundColor: user.color,
+		borderColor: "#575050",
+		borderWidth: 1
+	});
 });
 
 const options = ref<ChartOptions<"scatter">>({
@@ -57,7 +57,7 @@ const options = ref<ChartOptions<"scatter">>({
 				text: "Checkpoints",
 				color: brightColor
 			},
-			labels: ["Task Finished", "Search Finished", "Start"],
+			labels: ["Guide Found", "Category Found", "Start"],
 			min: 0,
 			ticks: {
 				color: brightColor
@@ -68,11 +68,11 @@ const options = ref<ChartOptions<"scatter">>({
 			position: "bottom",
 			title: {
 				display: true,
-				text: "Time (s)",
+				text: "Pages",
 				color: brightColor
 			},
 			min: 0,
-			max: 900,
+			max: 35,
 			ticks: {
 				color: brightColor
 			}
@@ -82,6 +82,14 @@ const options = ref<ChartOptions<"scatter">>({
 		legend: {
 			labels: {
 				color: brightColor
+			},
+			title: {
+				display: true,
+				text: "Pages Viewed",
+				color: "white",
+				font: {
+					size: 24
+				}
 			}
 		}
 	},
@@ -91,8 +99,8 @@ const options = ref<ChartOptions<"scatter">>({
 	},
 	elements: {
 		point: {
-		  radius: 10,
-		  hoverRadius: 15
+			radius: 10,
+			hoverRadius: 15
 		}
 	}
 });

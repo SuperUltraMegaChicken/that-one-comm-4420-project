@@ -2,7 +2,7 @@
   <v-table class="table">
     <thead>
       <tr>
-        <th>Name</th>
+        <th v-tooltip="'Lings Cars.'">Name</th>
         <th v-tooltip="questions.navigation">Navigation</th>
         <th v-tooltip="questions.cart">Cart</th>
         <th v-tooltip="questions.instructions">Instructions</th>
