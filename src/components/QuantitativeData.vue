@@ -41,17 +41,6 @@
 			<td>N/A</td>
 			<td>{{ Math.round(average(guidePercentages)) + '%' }}</td>
 		</tr>
-		<tr>
-			<td><b>Range</b></td>
-			<td>{{ convertSecondsToDuration(range(findCategoryTimes)) }}</td>
-			<td>{{ range(findCategoryPages) }}</td>
-			<td class="highlight">{{ convertSecondsToDuration(range(diyTimes)) }}</td>
-			<td>{{ range(diyPages) }}</td>
-			<td>{{ convertSecondsToDuration(range(checkoutTimes)) }}</td>
-			<td>{{ convertSecondsToDuration(range(totalTimes)) }}</td>
-			<td>N/A</td>
-			<td>{{ Math.round(range(guidePercentages)) + '%' }}</td>
-		</tr>
 		</tbody>
 	</v-table>
 	<br>
@@ -85,8 +74,6 @@ const convertSecondsToDuration = (seconds: number) => {
 };
 
 const average = (values: number[]) => values.reduce((a, b) => a + b, 0) / values.length;
-
-const range = (values: number[]) => Math.max(...values) - Math.min(...values);
 
 const findCategoryTimes = quantData.map(user => convertDurationToSeconds(user.findCategoryTimeTaken));
 const diyTimes = quantData.map(user => convertDurationToSeconds(user.diyTimeTaken));

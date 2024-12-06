@@ -15,11 +15,6 @@ const data = ref<ChartData<"scatter">>({
 	datasets: []
 });
 
-const convertDurationToSeconds = (duration: string) => {
-	const [minutes, seconds, milliseconds] = duration.split(":").map(Number);
-	return minutes * 60 + seconds + milliseconds / 1000;
-};
-
 quantitativeData.forEach((user) => {
 	data.value.datasets!.push({
 		label: user.name,

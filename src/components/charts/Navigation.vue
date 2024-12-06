@@ -5,7 +5,7 @@
 			<thead>
 			<tr>
 				<th>Name</th>
-				<th>Navigation</th>
+				<th v-tooltip="questions.navigation">Confidence</th>
 				<th>Reason</th>
 			</tr>
 			</thead>
@@ -30,7 +30,7 @@ import { ref, computed } from "vue";
 import { Bar } from "vue-chartjs";
 import { type ChartData, type ChartOptions } from 'chart.js';
 import screeningData from "../../screeningData.json";
-import { getColor } from "../../util.ts";
+import {getColor, questions} from "../../util.ts";
 
 const data = ref<ChartData<"bar">>({
 	labels: screeningData.map(user => user.name),
@@ -65,6 +65,7 @@ const options = ref<ChartOptions<"bar">>({
 				color: 'white'
 			},
 			ticks: {
+				// @ts-ignore
 				beginAtZero: true,
 				color: 'white',
 				stepSize: 1

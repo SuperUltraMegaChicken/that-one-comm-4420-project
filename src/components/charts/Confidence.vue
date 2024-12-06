@@ -18,7 +18,7 @@
 				<td class="text-center" :style="`color: ${getColor(user.instructions.confidence / 5)}`">{{ user.instructions.confidence }}</td>
 			</tr>
 			<tr>
-				<td>Average</td>
+				<td><b>Average</b></td>
 				<td class="text-center" :style="`color: ${getColor(averageNavigation / 5)}`">{{ averageNavigation }}</td>
 				<td class="text-center" :style="`color: ${getColor(averageCart / 5)}`">{{ averageCart }}</td>
 				<td class="text-center" :style="`color: ${getColor(averageInstructions / 5)}`">{{ averageInstructions }}</td>
@@ -34,8 +34,6 @@ import { Radar } from "vue-chartjs";
 import { type ChartData, type ChartOptions } from 'chart.js';
 import screeningData from "../../screeningData.json";
 import { getColor } from "../../util.ts";
-
-const brightColor = "#b7b7b7";
 
 const data = ref<ChartData<"radar">>({
 	labels: ["Navigation", "Cart", "Instructions"],
